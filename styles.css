@@ -1,7 +1,15 @@
 
 /* Your CSS Code here. */
-h1{
-	color:white;
-	backgroundcolor:maroon;
+.main{
+	 width: 200px;
+  background-color: purple;
+  padding: 10px;
 	
+}
+.heading{
+	border-left:5px solidgreen;
+}
+h2{
+	font-size:20px;
+	color:white;
 }
